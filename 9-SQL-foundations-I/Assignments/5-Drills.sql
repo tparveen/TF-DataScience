@@ -76,7 +76,7 @@ AND year NOT IN (1990, 2000)
 
 -- 8. Write a query that returns the year, make, model, and a field called average_mpg that calculates the average highway/city fuel consumption. (For example, if hwy is 24 and cty is 20, then average_mpg = (24 + 20)/ 2 = 22.)
 
-SELECT year, make, model, hwy/cty AS average_mpg
+SELECT year, make, model, (hwy/cty)/2 AS average_mpg
 FROM vehicles
 
 -- They are all 1s and 0s
