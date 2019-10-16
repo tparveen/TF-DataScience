@@ -22,7 +22,7 @@ The 5 components are
 
 ### Does a new supplement help people sleep better?
 
-1) The controlled version of the A/B test would be to monitor sleep without any supplement or with supplements that are already in use since the experiment is about "new" supplement. The test version will be experimenting with the new supplement
+1) The A/B test will have - The controlled version of the A/B test would be to monitor sleep without any supplement or with supplements that are already in use since the experiment is about "new" supplement. The test version will be experimenting with the new supplement
 
 2) Sample: The samples are divided in 2 groups. One group (Group A) will not take the new supplement. The other group (Group B) will take the new supplement. 
 
@@ -39,7 +39,7 @@ The metrics by which "Better" was defined should be measured to see if the hypot
 ### Will new uniforms help a gym's business?
 
 1) This question is very vague. What does Gym's business mean? does that mean getting new customers? retaining existing customers? retaining employees? reducing employee churn? Once that is figured out - The A/B test would be to see if the gym will have a controlled version and a test version of test. 
-Lets assume its asking a new uniform attracts new customers or not
+Lets assume its asking a new uniform attracts new customers or not. Based on that we can do an A/B test with controlled version where no change in uniform will be done and a test version where the new uniform will be used.
 
 2) Sample: The samples are divided in 2 groups. Does the gym have more than one facility? If so, then Maybe have one facility (Group A) will have employees with the existing uniform. The other facility (Group B) will have employees with new uniform. 
 
@@ -54,7 +54,26 @@ The new uniform does not make a difference in new customer joining the Gym.
 
 ### Will a new homepage improve my online exotic pet rental business?
 
+1) The A/B test for this will be to use the existing homepage as the controlled version of the A/B test. The test version will use the new homepage.
 
+2) Sample: The samples are divided in 2 groups. One group (Group A) will be be selected and will be given the link to the controlled version page. The other group (Group B) will be given the test version of the page which is the new homepage. 
+
+3) Hypothesis: The new homepage improve my online exotic pet rental business than my old homepage did.
+
+4) Outcomes: If the two groups were similar, then the exotic pet rental business will have more rental orders from Group B than Group A. 
+
+5) Metrics and measurements: The 2 groups of samples are similar and sampling biases are removed as much as possible, There should be a certain period of study, for example a period of 3 months or so and see if the rental orders are better from Group B. Other things such as seasonal events should also be considered and possibly eliminated from the overall result. Other meansurements can be taken to see how long people stay on the page, clicks, lead conversion etc.
 
 
 ### If I put 'please read' in the email subject will more people read my emails?
+
+
+1) The A/B test for this will be that the controlled version will have samples getting an email without "Please read" in the email subject and the other sample will get email that says "Please read" in the email subject.
+
+2) Sample: The samples are divided in 2 groups. One group (Group A) will get email without "Please Read". The other group (Group B) will get an email with "Please Read". The two groups has to be very similar in nature. For example, we can't have a group who are always getting Junk email and the other just rarely gets one. We can't have one group whose Junk filter is on and another with off. So the samples has to be the same. 
+
+3) Hypothesis: The email with "Please Read" will get people to open the email
+
+4) Outcomes: If the two groups were similar then the number of email read by Group B should be more than Group A. 
+
+5) Metrics and measurements: The measurements to be considered for this A/B test is to find the number of email opened for the two groups. Then see which is better number - the one with "Please read" or the one without it. This will also has to be done making sure that the samples are similar.

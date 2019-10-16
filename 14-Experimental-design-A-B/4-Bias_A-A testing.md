@@ -39,5 +39,3 @@ Potential biases:
 Potential biases:
  - Bias in assignment to condition: A loyalty program is attractive because of its benefit that it provides. These loyalty benefits are long term. A week is not enough to see much of a change unless some incentives are provided as short term benefit. Over time, as customers becomes loyal and more know about the benefit, the number of visits may change, but a week time is too short and the result of that is biased.
  - Observer bias: A loyalty program is for Loyal customers. Launching that without providing short term benefit does not show loyalty on the organization's part, therefore visitors won't be loyal to visit either. 
-
-.
